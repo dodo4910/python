@@ -1,0 +1,8 @@
+SyntaxError: unexpected EOF while parsing
+＃表示可能有括號未加
+
+IndentationError: expected an indented block
+#表示有縮排上的錯誤
+
+SyntaxError: invalid character in identifier
+#出現錯誤符號（此時要注意是否是用中文的符號，有大小寫之分）
