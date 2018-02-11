@@ -1,0 +1,5 @@
+import decimal
+#匯入decimal小數精確度模組
+
+from decimal import *
+#匯入整個模組，含有其他周邊設定模組
